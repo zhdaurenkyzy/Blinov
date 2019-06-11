@@ -1,6 +1,6 @@
 package com.company;
 
-public class aTaskTwo {
+public class TaskSecondA {
     public static void main(String[] args) {
        StringBuilder stringBuilder = new StringBuilder("Hello world");
        StringBuilder stringBuilderSecond2 = new StringBuilder(stringBuilder);
