@@ -13,9 +13,7 @@ public class TaskSecondA {
                  stringBuilder.replace(i, i+1, (j+1)+" ");
                  }
            }
-
         }
-
         System.out.println(stringBuilderSecond);
         System.out.println(stringBuilder);
     }
